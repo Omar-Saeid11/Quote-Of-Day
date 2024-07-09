@@ -62,6 +62,11 @@ Contributions to improve the app are welcome! If you have any suggestions, enhan
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a pull request.
 
+## Repository
+
+Find the repository [here](https://github.com/Omar-Saeid11/Quote-Of-Day.git).
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
